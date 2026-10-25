@@ -1,0 +1,14 @@
+[
+  {
+    "modid": "enchantcracker1122",
+    "name": "Enchant Cracker 1.12.2",
+    "description": "Enchantment cracking, player-RNG manipulation, and automatic targeted fishing after one manual cast, with visible progress and confirmed pickup.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://github.com/Earthcomputer/EnchantmentCracker",
+    "authorList": ["Standalone 1.12.2 adaptation"],
+    "clientSideOnly": true,
+    "serverSideOnly": false,
+    "requiredMods": []
+  }
+]
