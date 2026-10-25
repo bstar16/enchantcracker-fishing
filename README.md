@@ -53,6 +53,8 @@ Extra enchantments are allowed; requested levels are minimums. Table-incompatibl
 
 ## Automatic fishing
 
+Check the video i made for this here - https://youtu.be/IWDFiuQrq9A
+
 For a Mending book:
 
 ```text
